@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+In the last 7 days, time spent writing in:
 
 <!--START_SECTION:waka-->
 ```text
