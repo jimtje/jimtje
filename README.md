@@ -4,11 +4,11 @@ In the last 7 days, time spent writing in:
 
 <!--START_SECTION:waka-->
 ```text
-Python     27 hrs 27 mins  ██████████████████████▓░░   90.61 % 
-Solidity   1 hr 34 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
-Other      18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
-PHP        11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-JSON       10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Python       34 hrs 29 mins  ███████████████████████▒░   93.12 % 
+Solidity     1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+Other        18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+PHP          11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Git Config   10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 ```
 <!--END_SECTION:waka-->
 <!--
