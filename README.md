@@ -4,11 +4,11 @@ In the last 7 days, time spent writing in:
 
 <!--START_SECTION:waka-->
 ```text
-Python       10 hrs 45 mins  ████████████████████████▒   96.81 % 
-Git Config   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-TOML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Python       13 hrs 37 mins  ███████████████████████░░   92.40 % 
+Markdown     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+GraphQL      13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Git Config   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+JavaScript   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 ```
 <!--END_SECTION:waka-->
 
