@@ -4,11 +4,10 @@ In the last 7 days, time spent writing in:
 
 <!--START_SECTION:waka-->
 ```text
-Python     1 hr 53 mins    ██████████████▒░░░░░░░░░░   57.64 % 
-YAML       34 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.66 % 
-Text       21 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Markdown   14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-INI        12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Python       2 hrs 3 mins    █████████████████████▒░░░   84.84 % 
+Text         17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Vue.js       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 ```
 <!--END_SECTION:waka-->
 
