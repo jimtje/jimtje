@@ -4,9 +4,10 @@ In the last 7 days, time spent writing in:
 
 <!--START_SECTION:waka-->
 ```text
-Python       15 hrs 2 mins   █████████████████████░░░░   84.42 % 
-JavaScript   2 hrs 33 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 % 
-JSON         12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Python            9 hrs 42 mins   ██████████████████▓░░░░░░   74.62 % 
+JavaScript        2 hrs 35 mins   █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
+Protocol Buffer   29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
+JSON              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 ```
 <!--END_SECTION:waka-->
 
