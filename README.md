@@ -4,11 +4,9 @@ In the last 7 days, time spent writing in:
 
 <!--START_SECTION:waka-->
 ```text
-Python       6 hrs 35 mins   ██████████████████████▒░░   89.05 % 
-Other        36 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
-JavaScript   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-TOML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
-TypeScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Python     7 hrs 47 mins   ███████████████████████░░   92.19 % 
+Other      36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+TOML       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 ```
 <!--END_SECTION:waka-->
 
