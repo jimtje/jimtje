@@ -4,11 +4,11 @@ In the last 7 days, time spent writing in:
 
 <!--START_SECTION:waka-->
 ```text
-INI        31 hrs 36 mins  ██████████████▓░░░░░░░░░░   58.45 % 
-Python     21 hrs 47 mins  ██████████░░░░░░░░░░░░░░░   40.30 % 
-Markdown   23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-Docker     10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-TOML       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+INI        36 hrs 26 mins  █████████████▒░░░░░░░░░░░   52.79 % 
+Python     29 hrs 18 mins  ██████████▓░░░░░░░░░░░░░░   42.44 % 
+Other      2 hrs           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Markdown   37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Docker     23 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 ```
 <!--END_SECTION:waka-->
 
