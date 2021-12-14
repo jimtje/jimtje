@@ -4,7 +4,7 @@ In the last 7 days, time spent writing in:
 
 <!--START_SECTION:waka-->
 ```text
-Python     6 mins          █████████████████████████   99.62 % 
+Python   6 mins          █████████████████████████   99.62 % 
 ```
 <!--END_SECTION:waka-->
 
