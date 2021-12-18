@@ -4,7 +4,10 @@ In the last 7 days, time spent writing in:
 
 <!--START_SECTION:waka-->
 ```text
-Python   6 mins          █████████████████████████   99.62 % 
+Python     13 mins         ████████████████▒░░░░░░░░   65.34 % 
+PHP        3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.68 % 
+textmate   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+HTML       1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
 ```
 <!--END_SECTION:waka-->
 
