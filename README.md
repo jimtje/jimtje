@@ -5,12 +5,11 @@ In the last 7 days, time spent writing in:
 <!--START_SECTION:waka-->
 
 ```text
-Python            1 hr 19 mins    ██████████████████████▒░░   89.34 %
-TOML              5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.58 %
-JSON              2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
-YAML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Text              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Python            1 hr 8 mins     ████████████████████████░   95.86 %
+JSON              2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+Text              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+GitIgnore file    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
