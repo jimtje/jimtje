@@ -5,11 +5,12 @@ In the last 7 days, time spent writing in:
 <!--START_SECTION:waka-->
 
 ```text
-Python           1 hr 39 mins    ████████████████████████░   95.42 %
+Python           1 hr 39 mins    ███████████████████████▓░   95.32 %
 GitIgnore file   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 %
-Text             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Text             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
 JSON             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
 Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
