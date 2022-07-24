@@ -5,12 +5,12 @@ In the last 7 days, time spent writing in:
 <!--START_SECTION:waka-->
 
 ```text
-Python          3 hrs           ███████████░░░░░░░░░░░░░░   44.22 %
-CLASS           1 hr 17 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.92 %
-Text            1 hr 13 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.02 %
-Properties      45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.12 %
-XML             13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-Markdown        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+Python          3 hrs 40 mins   ██████████████▒░░░░░░░░░░   57.47 %
+CLASS           1 hr 26 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.66 %
+Properties      45 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 %
+XML             13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
+Text            9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+JavaScript      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
 ```
 
 <!--END_SECTION:waka-->
