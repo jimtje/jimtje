@@ -5,9 +5,9 @@ In the last 7 days, time spent writing in:
 <!--START_SECTION:waka-->
 
 ```text
-Python            1 hr 11 mins    ███████████████████████░░   91.49 %
-Protocol Buffer   5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
-protobuf          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+Python            37 mins         █████████████████████▒░░░   84.83 %
+Protocol Buffer   5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
+protobuf          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
 ```
 
 <!--END_SECTION:waka-->
