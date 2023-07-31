@@ -5,9 +5,11 @@ In the last 7 days, time spent writing in:
 <!--START_SECTION:waka-->
 
 ```txt
-Python                 0 secs          ████████████████████████▓   98.56 %
-requirements-pro.txt   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Log                    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+CLASS                  15 mins         █████████████████████░░░░   84.13 %
+XML                    1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 %
+Properties             0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Manifest               0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Python                 0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 ```
 
 <!--END_SECTION:waka-->
