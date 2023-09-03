@@ -5,11 +5,9 @@ In the last 7 days, time spent writing in:
 <!--START_SECTION:waka-->
 
 ```txt
-Python                 3 hrs 29 mins   ███████████████████▓░░░░░   78.19 %
-CLASS                  29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
-requirements-pro.txt   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-Ezhil                  6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
-Properties             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+Python                 2 hrs 52 mins   ███████████████████████▓░   95.11 %
+requirements-pro.txt   8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
+Text                   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
