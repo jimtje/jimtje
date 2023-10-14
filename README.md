@@ -5,10 +5,11 @@ In the last 7 days, time spent writing in:
 <!--START_SECTION:waka-->
 
 ```txt
-Python                 10 mins         █████████████████████████   99.95 %
-Markdown               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-textmate               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-requirements-pro.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Makefile               27 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.76 %
+CMake                  25 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.76 %
+Text                   16 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 %
+C++                    13 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 %
+GitIgnore file         9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
 ```
 
 <!--END_SECTION:waka-->
