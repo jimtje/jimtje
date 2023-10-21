@@ -5,11 +5,11 @@ In the last 7 days, time spent writing in:
 <!--START_SECTION:waka-->
 
 ```txt
-Makefile               27 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.05 %
-CMake                  25 mins         █████░░░░░░░░░░░░░░░░░░░░   19.35 %
-Text                   16 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
-Java                   15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
-C++                    13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.25 %
+Java                   15 mins         ████████████████░░░░░░░░░   63.69 %
+Python                 6 mins          ███████▒░░░░░░░░░░░░░░░░░   28.96 %
+ActionScript 3         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+JSON                   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+requirements-pro.txt   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
