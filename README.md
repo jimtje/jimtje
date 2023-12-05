@@ -5,11 +5,11 @@ In the last 7 days, time spent writing in:
 <!--START_SECTION:waka-->
 
 ```txt
-Python                 3 hrs 54 mins   ████████████████▒░░░░░░░░   65.21 %
-JSON                   38 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
-TypeScript             31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
-YAML                   15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-GraphQL                13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+Python                 4 hrs 3 mins    █████████████████████▒░░░   85.04 %
+JSON                   27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
+TOML                   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+Text                   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
+GitIgnore file         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
 ```
 
 <!--END_SECTION:waka-->
