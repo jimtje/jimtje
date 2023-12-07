@@ -5,11 +5,11 @@ In the last 7 days, time spent writing in:
 <!--START_SECTION:waka-->
 
 ```txt
-Python                 3 hrs 34 mins   ███████████████████████▒░   93.96 %
-TOML                   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-Text                   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-GitIgnore file         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
-requirements-pro.txt   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Python                 9 hrs 13 mins   █████████████████████▓░░░   86.93 %
+CLASS                  54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 %
+PHP                    5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+XML                    3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+Text                   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 ```
 
 <!--END_SECTION:waka-->
