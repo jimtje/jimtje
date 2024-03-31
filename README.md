@@ -5,8 +5,8 @@ In the last 7 days, time spent writing in:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   0 secs          ████████████████████████▒   97.40 %
-CSV      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Python   2 mins          █████████████████████████   99.97 %
+CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
