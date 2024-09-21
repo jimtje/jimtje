@@ -5,7 +5,7 @@ In the last 7 days, time spent writing in:
 <!--START_SECTION:waka-->
 
 ```txt
-XML                   14 mins         █████████▓░░░░░░░░░░░░░░░   38.05 %
+XML                   14 mins         █████████▓░░░░░░░░░░░░░░░   38.04 %
 CLASS                 10 mins         ███████▒░░░░░░░░░░░░░░░░░   29.15 %
 Python                8 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.75 %
 YAML                  3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
