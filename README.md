@@ -5,11 +5,8 @@ In the last 7 days, time spent writing in:
 <!--START_SECTION:waka-->
 
 ```txt
-Python            1 hr            ████████████████░░░░░░░░░   63.48 %
-Java              16 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.80 %
-CLASS             6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-XML               6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
-TOML              2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+Python   39 mins         ████████████████████████▓   98.66 %
+Java     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
 ```
 
 <!--END_SECTION:waka-->
