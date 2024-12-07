@@ -5,11 +5,11 @@ In the last 7 days, time spent writing in:
 <!--START_SECTION:waka-->
 
 ```txt
-Java              1 hr 17 mins    ███████████████████▓░░░░░   78.49 %
-CLASS             6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
-JSON              4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-XML               3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-Java Properties   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Java              1 hr 10 mins    ██████████████████▓░░░░░░   75.02 %
+CLASS             6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
+XML               6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+JSON              4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
+Java Properties   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
 ```
 
 <!--END_SECTION:waka-->
