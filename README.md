@@ -5,11 +5,10 @@ In the last 7 days, time spent writing in:
 <!--START_SECTION:waka-->
 
 ```txt
-HTML             8 mins          ██████████████▒░░░░░░░░░░   57.47 %
-GitIgnore file   3 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.33 %
-Markdown         2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.60 %
-Python           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-JSON             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+HTML     4 mins          █████████████▒░░░░░░░░░░░   53.32 %
+Python   3 mins          ███████████▓░░░░░░░░░░░░░   46.41 %
+XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+TOML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
