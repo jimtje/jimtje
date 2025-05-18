@@ -5,10 +5,11 @@ In the last 7 days, time spent writing in:
 <!--START_SECTION:waka-->
 
 ```txt
-Python   2 hrs 36 mins   █████████████████████████   99.88 %
-TOML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python            2 hrs 20 mins   ██████████████████▒░░░░░░   72.83 %
+Java              28 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
+CLASS             9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+JSON              6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+JET_CLIENT_TEXT   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
 ```
 
 <!--END_SECTION:waka-->
