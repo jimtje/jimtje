@@ -8,6 +8,7 @@ In the last 7 days, time spent writing in:
 Python     1 hr 51 mins    █████████████████████████   99.96 %
 XML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 textmate   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
