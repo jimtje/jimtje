@@ -5,8 +5,9 @@ In the last 7 days, time spent writing in:
 <!--START_SECTION:waka-->
 
 ```txt
-Python         2 hrs 32 mins   ████████████████████████▓   99.33 %
-Shell Script   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Python         2 hrs 13 mins   ██████████████████████▒░░   89.56 %
+conf           14 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
+Shell Script   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
