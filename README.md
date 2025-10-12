@@ -5,11 +5,7 @@ In the last 7 days, time spent writing in:
 <!--START_SECTION:waka-->
 
 ```txt
-Java                     32 mins         ███████████████████████░░   91.86 %
-XML                      2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
-JSON                     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-Protocol Buffer          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-HttpPropertiesLanguage   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
