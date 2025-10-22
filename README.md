@@ -5,7 +5,8 @@ In the last 7 days, time spent writing in:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   11 mins         ████████████████████▒░░░░   80.85 %
+HTML         2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.15 %
 ```
 
 <!--END_SECTION:waka-->
