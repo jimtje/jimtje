@@ -5,7 +5,11 @@ In the last 7 days, time spent writing in:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java              20 mins         ██████████████████████▒░░   89.56 %
+CLASS             0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
+JSON              0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+XML               0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Java Properties   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 ```
 
 <!--END_SECTION:waka-->
