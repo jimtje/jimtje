@@ -5,11 +5,11 @@ In the last 7 days, time spent writing in:
 <!--START_SECTION:waka-->
 
 ```txt
-Python                5 hrs 30 mins         ███████████████████████▒░   93.82 %
-YAML                  11 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
-Nginx Configuration   6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-Text                  3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Docker                0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python                6 hrs 35 mins         ██████████████████████▒░░   88.70 %
+Java                  15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+YAML                  11 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+CLASS                 8 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Nginx Configuration   7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
 ```
 
 <!--END_SECTION:waka-->
