@@ -5,11 +5,11 @@ In the last 7 days, time spent writing in:
 <!--START_SECTION:waka-->
 
 ```txt
-Python                1 hr 2 mins           █████████████░░░░░░░░░░░░   51.68 %
-JavaScript            38 mins               ████████░░░░░░░░░░░░░░░░░   31.48 %
-JSON                  6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
-E-mail                5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
-Manifest              2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
+Python                50 mins               ██████████░░░░░░░░░░░░░░░   40.00 %
+JavaScript            37 mins               ███████▒░░░░░░░░░░░░░░░░░   29.47 %
+C++                   15 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.83 %
+JSON                  6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+ObjectiveC            3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
 ```
 
 <!--END_SECTION:waka-->
