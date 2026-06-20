@@ -5,11 +5,9 @@ In the last 7 days, time spent writing in:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart               16 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.57 %
-Python             11 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.47 %
-Java               10 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.12 %
-protobuf           7 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
-JSON               6 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.70 %
+Python   2 mins                ████████████████████████▓   99.00 %
+Java     0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+JSON     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
