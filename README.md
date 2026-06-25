@@ -5,8 +5,8 @@ In the last 7 days, time spent writing in:
 <!--START_SECTION:waka-->
 
 ```txt
-Java   0 secs                ████████████████████▒░░░░   81.55 %
-JSON   0 secs                ████▓░░░░░░░░░░░░░░░░░░░░   18.45 %
+Markdown   0 secs                ████████████████▒░░░░░░░░   65.80 %
+Python     0 secs                ████████▓░░░░░░░░░░░░░░░░   34.20 %
 ```
 
 <!--END_SECTION:waka-->
