@@ -5,11 +5,11 @@ In the last 7 days, time spent writing in:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart             15 mins               ████████░░░░░░░░░░░░░░░░░   31.92 %
-Python           14 mins               ███████▓░░░░░░░░░░░░░░░░░   30.75 %
-YAML             5 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.74 %
-JavaScript       4 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   08.81 %
-.env file        3 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 %
+Dart             15 mins               ███████▓░░░░░░░░░░░░░░░░░   31.04 %
+Python           14 mins               ███████▒░░░░░░░░░░░░░░░░░   29.90 %
+YAML             5 mins                ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
+JavaScript       4 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
+.env file        3 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
 ```
 
 <!--END_SECTION:waka-->
