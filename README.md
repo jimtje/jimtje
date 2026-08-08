@@ -5,11 +5,11 @@ In the last 7 days, time spent writing in:
 <!--START_SECTION:waka-->
 
 ```txt
-Java               21 mins               █████████████▒░░░░░░░░░░░   53.57 %
-GitIgnore file     8 mins                █████▒░░░░░░░░░░░░░░░░░░░   21.84 %
-CLASS              3 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
-Java Properties    1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-Markdown           1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+Java               11 mins               ███████▒░░░░░░░░░░░░░░░░░   29.47 %
+Python             10 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.46 %
+GitIgnore file     8 mins                █████▓░░░░░░░░░░░░░░░░░░░   22.14 %
+CLASS              1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
+YAML               1 min                 █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
 ```
 
 <!--END_SECTION:waka-->
